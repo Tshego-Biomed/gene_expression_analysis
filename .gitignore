@@ -1,0 +1,25 @@
+.gitignore
+# RAW DATA - 
+01_RAW_DATA/
+*.xlsx
+*.xls
+
+# R TEMPORARY FILES
+.RData
+.Rhistory
+.Rproj.user/
+.Renviron
+.Rprofile
+
+# OUTPUTS 
+03_OUTPUTS/tables/
+*.csv
+
+# SYSTEM FILES
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# R PROJECT FILE
+#*.Rproj
